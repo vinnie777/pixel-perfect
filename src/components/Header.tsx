@@ -27,10 +27,10 @@ const Header = () => {
         
         <div className="flex items-center gap-3">
           <Button variant="outline" size="default">
-            Connexion
+            Login
           </Button>
           <Button variant="hero" size="default">
-            Jouer
+            Play
           </Button>
         </div>
       </nav>
